@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=P7 NewDesignator=P8
+Added Pin To Net: NetName=VDD+3.3V Pin=P8-1
+Added Pin To Net: NetName=RESET7 Pin=P8-2
+Added Pin To Net: NetName=GND Pin=P8-3
+Added Pin To Net: NetName=MISO Pin=P8-5
+Added Pin To Net: NetName=MOSI Pin=P8-6
+Added Pin To Net: NetName=SCK Pin=P8-7
+Added Pin To Net: NetName=CS7 Pin=P8-8
+Added Member To Class: ClassName=poker_shematics_2 Member=Component P8 Header 8
+Added Room: Name=poker_shematics_2

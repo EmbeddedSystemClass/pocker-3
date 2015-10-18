@@ -1,0 +1,85 @@
+Protel Design System Design Rule Check
+PCB File : D:\REPOSITORY\GIT\POKER\модуль_17\pocker_ shield.pcbdoc
+Date     : 17.10.2015
+Time     : 12:05:06
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Track on layer Bottom Layer (2,-65.28mm) And Pad P1-3 (2,-17.5mm)
+Rule Violations :1
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.3mm) (Max=0.5mm) (Preferred=0.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+   Violation between Pad C1-2(35.5mm,-15.85mm)  Top Layer and 
+                     Pad C1-1(35.5mm,-17.35mm)  Top Layer
+   Violation between Pad C2-2(29.85mm,-17.1mm)  Top Layer and 
+                     Pad C2-1(28.35mm,-17.1mm)  Top Layer
+Rule Violations :2
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+   Violation between Text "P2" (13.934mm,-23.226mm)  Top Overlay and 
+                     Pad COMMS-3(17.49mm,-21.6mm)  Multi-Layer
+   Violation between Text "P2" (13.934mm,-23.226mm)  Top Overlay and 
+                     Pad COMMS-4(14.95mm,-21.6mm)  Multi-Layer
+   Violation between Text "DIGITAL" (28.26mm,-21mm)  Top Overlay and 
+                     Pad C2-1(28.35mm,-17.1mm)  Top Layer
+   Violation between Text "DIGITAL" (28.26mm,-21mm)  Top Overlay and 
+                     Pad U1-1(28.1mm,-13.825mm)  Top Layer
+   Violation between Track (27.05mm,-12.45mm)(33.75mm,-12.45mm)  Top Overlay and 
+                     Pad U1-1(28.1mm,-13.825mm)  Top Layer
+   Violation between Text "C2" (27.908mm,-15.496mm)  Top Overlay and 
+                     Pad U1-1(28.1mm,-13.825mm)  Top Layer
+   Violation between Track (27.05mm,-12.45mm)(33.75mm,-12.45mm)  Top Overlay and 
+                     Pad U1-2(30.4mm,-13.825mm)  Top Layer
+   Violation between Text "C2" (27.908mm,-15.496mm)  Top Overlay and 
+                     Pad U1-2(30.4mm,-13.825mm)  Top Layer
+   Violation between Track (27.05mm,-12.45mm)(33.75mm,-12.45mm)  Top Overlay and 
+                     Pad U1-3(32.7mm,-13.825mm)  Top Layer
+   Violation between Track (27.05mm,-8.75mm)(33.75mm,-8.75mm)  Top Overlay and 
+                     Pad U1-2(30.4mm,-7.375mm)  Top Layer
+Rule Violations :10
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+   Violation between Text "U1" (26.776mm,-5.005mm)  Top Overlay and 
+                     Track (28.89mm,-3.27mm)(28.89mm,-0.73mm)  Top Overlay
+   Violation between Text "U1" (26.776mm,-5.005mm)  Top Overlay and 
+                     Track (18.73mm,-3.27mm)(28.89mm,-3.27mm)  Top Overlay
+   Violation between Text "29" (18.108mm,-26.316mm)  Top Overlay and 
+                     Track (13.79mm,-26.57mm)(18.87mm,-26.57mm)  Top Overlay
+   Violation between Text "30" (15.568mm,-26.316mm)  Top Overlay and 
+                     Track (13.79mm,-26.57mm)(18.87mm,-26.57mm)  Top Overlay
+   Violation between Text "2" (15.568mm,-65.94mm)  Top Overlay and 
+                     Track (13.79mm,-64.67mm)(18.87mm,-64.67mm)  Top Overlay
+   Violation between Text "P2" (13.934mm,-23.226mm)  Top Overlay and 
+                     Track (13.68mm,-22.87mm)(13.68mm,-20.33mm)  Top Overlay
+   Violation between Text "P2" (13.934mm,-23.226mm)  Top Overlay and 
+                     Track (13.68mm,-22.87mm)(23.84mm,-22.87mm)  Top Overlay
+   Violation between Text "DIGITAL" (28.26mm,-21mm)  Top Overlay and 
+                     Text "C2" (27.908mm,-15.496mm)  Top Overlay
+Rule Violations :8
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 21
+Time Elapsed        : 00:00:01

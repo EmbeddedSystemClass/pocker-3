@@ -1,0 +1,127 @@
+Added Component: Designator=P1(HDR1X8)
+Added Component: Designator=P2(HDR2X15)
+Added Component: Designator=P3(HDR1X8)
+Added Component: Designator=P5(HDR1X8)
+Added Component: Designator=P6(HDR1X8)
+Added Component: Designator=P7(HDR1X8)
+Added Component: Designator=P7(HDR1X8)
+Added Component: Designator=P9(HDR2X9)
+Added Pin To Net: NetName=CS1 Pin=P2-8
+Added Pin To Net: NetName=CS1 Pin=P9-8
+Added Net: Name=CS1
+Added Pin To Net: NetName=CS2 Pin=P2-10
+Added Pin To Net: NetName=CS2 Pin=P9-10
+Added Net: Name=CS2
+Added Pin To Net: NetName=CS3 Pin=P2-12
+Added Pin To Net: NetName=CS3 Pin=P9-12
+Added Net: Name=CS3
+Added Pin To Net: NetName=CS4 Pin=P2-14
+Added Pin To Net: NetName=CS4 Pin=P9-14
+Added Net: Name=CS4
+Added Pin To Net: NetName=CS5 Pin=P2-16
+Added Pin To Net: NetName=CS5 Pin=P9-16
+Added Net: Name=CS5
+Added Pin To Net: NetName=CS6 Pin=P2-18
+Added Pin To Net: NetName=CS6 Pin=P9-18
+Added Net: Name=CS6
+Added Pin To Net: NetName=CS7 Pin=P2-20
+Added Pin To Net: NetName=CS7 Pin=P7-8
+Added Net: Name=CS7
+Added Pin To Net: NetName=CS8 Pin=P2-22
+Added Pin To Net: NetName=CS8 Pin=P7-8
+Added Net: Name=CS8
+Added Pin To Net: NetName=CS9 Pin=P2-24
+Added Pin To Net: NetName=CS9 Pin=P6-8
+Added Net: Name=CS9
+Added Pin To Net: NetName=CS10 Pin=P2-26
+Added Pin To Net: NetName=CS10 Pin=P5-8
+Added Net: Name=CS10
+Added Pin To Net: NetName=CS11 Pin=P2-28
+Added Pin To Net: NetName=CS11 Pin=P3-8
+Added Net: Name=CS11
+Added Pin To Net: NetName=CS12 Pin=P1-8
+Added Pin To Net: NetName=CS12 Pin=P2-30
+Added Net: Name=CS12
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=GND Pin=P5-3
+Added Pin To Net: NetName=GND Pin=P6-3
+Added Pin To Net: NetName=GND Pin=P7-3
+Added Pin To Net: NetName=GND Pin=P7-3
+Added Pin To Net: NetName=GND Pin=P9-2
+Added Net: Name=GND
+Added Pin To Net: NetName=MISO Pin=P1-5
+Added Pin To Net: NetName=MISO Pin=P2-6
+Added Pin To Net: NetName=MISO Pin=P3-5
+Added Pin To Net: NetName=MISO Pin=P5-5
+Added Pin To Net: NetName=MISO Pin=P6-5
+Added Pin To Net: NetName=MISO Pin=P7-5
+Added Pin To Net: NetName=MISO Pin=P7-5
+Added Pin To Net: NetName=MISO Pin=P9-6
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=P1-6
+Added Pin To Net: NetName=MOSI Pin=P2-5
+Added Pin To Net: NetName=MOSI Pin=P3-6
+Added Pin To Net: NetName=MOSI Pin=P5-6
+Added Pin To Net: NetName=MOSI Pin=P6-6
+Added Pin To Net: NetName=MOSI Pin=P7-6
+Added Pin To Net: NetName=MOSI Pin=P7-6
+Added Pin To Net: NetName=MOSI Pin=P9-5
+Added Net: Name=MOSI
+Added Pin To Net: NetName=RESET1 Pin=P2-7
+Added Pin To Net: NetName=RESET1 Pin=P9-7
+Added Net: Name=RESET1
+Added Pin To Net: NetName=RESET2 Pin=P2-9
+Added Pin To Net: NetName=RESET2 Pin=P9-9
+Added Net: Name=RESET2
+Added Pin To Net: NetName=RESET3 Pin=P2-11
+Added Pin To Net: NetName=RESET3 Pin=P9-11
+Added Net: Name=RESET3
+Added Pin To Net: NetName=RESET4 Pin=P2-13
+Added Pin To Net: NetName=RESET4 Pin=P9-13
+Added Net: Name=RESET4
+Added Pin To Net: NetName=RESET5 Pin=P2-15
+Added Pin To Net: NetName=RESET5 Pin=P9-15
+Added Net: Name=RESET5
+Added Pin To Net: NetName=RESET6 Pin=P2-17
+Added Pin To Net: NetName=RESET6 Pin=P9-17
+Added Net: Name=RESET6
+Added Pin To Net: NetName=RESET7 Pin=P2-19
+Added Pin To Net: NetName=RESET7 Pin=P7-2
+Added Net: Name=RESET7
+Added Pin To Net: NetName=RESET8 Pin=P2-21
+Added Pin To Net: NetName=RESET8 Pin=P7-2
+Added Net: Name=RESET8
+Added Pin To Net: NetName=RESET9 Pin=P2-23
+Added Pin To Net: NetName=RESET9 Pin=P6-2
+Added Net: Name=RESET9
+Added Pin To Net: NetName=RESET10 Pin=P2-25
+Added Pin To Net: NetName=RESET10 Pin=P5-2
+Added Net: Name=RESET10
+Added Pin To Net: NetName=RESET11 Pin=P2-27
+Added Pin To Net: NetName=RESET11 Pin=P3-2
+Added Net: Name=RESET11
+Added Pin To Net: NetName=RESET12 Pin=P1-2
+Added Pin To Net: NetName=RESET12 Pin=P2-29
+Added Net: Name=RESET12
+Added Pin To Net: NetName=SCK Pin=P1-7
+Added Pin To Net: NetName=SCK Pin=P2-4
+Added Pin To Net: NetName=SCK Pin=P3-7
+Added Pin To Net: NetName=SCK Pin=P5-7
+Added Pin To Net: NetName=SCK Pin=P6-7
+Added Pin To Net: NetName=SCK Pin=P7-7
+Added Pin To Net: NetName=SCK Pin=P7-7
+Added Pin To Net: NetName=SCK Pin=P9-4
+Added Net: Name=SCK
+Added Pin To Net: NetName=VDD+3.3V Pin=P1-1
+Added Pin To Net: NetName=VDD+3.3V Pin=P2-1
+Added Pin To Net: NetName=VDD+3.3V Pin=P3-1
+Added Pin To Net: NetName=VDD+3.3V Pin=P5-1
+Added Pin To Net: NetName=VDD+3.3V Pin=P6-1
+Added Pin To Net: NetName=VDD+3.3V Pin=P7-1
+Added Pin To Net: NetName=VDD+3.3V Pin=P7-1
+Added Pin To Net: NetName=VDD+3.3V Pin=P9-1
+Added Net: Name=VDD+3.3V
+Added Class: Name=poker_shematics_2
+Added Room: Name=poker_shematics_2
