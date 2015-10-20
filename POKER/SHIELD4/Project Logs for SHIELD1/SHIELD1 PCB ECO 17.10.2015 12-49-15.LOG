@@ -1,0 +1,37 @@
+Added Component: Designator=P1(HDR1X8)
+Added Component: Designator=P2(HDR1X8)
+Added Component: Designator=P3(HDR1X8)
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetP1_1 Pin=P2-1
+Added Pin To Net: NetName=NetP1_1 Pin=P3-1
+Added Net: Name=NetP1_1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=P2-2
+Added Pin To Net: NetName=NetP1_2 Pin=P3-2
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_3 Pin=P2-3
+Added Pin To Net: NetName=NetP1_3 Pin=P3-3
+Added Net: Name=NetP1_3
+Added Pin To Net: NetName=NetP1_4 Pin=P1-4
+Added Pin To Net: NetName=NetP1_4 Pin=P2-4
+Added Pin To Net: NetName=NetP1_4 Pin=P3-4
+Added Net: Name=NetP1_4
+Added Pin To Net: NetName=NetP1_5 Pin=P1-5
+Added Pin To Net: NetName=NetP1_5 Pin=P2-5
+Added Pin To Net: NetName=NetP1_5 Pin=P3-5
+Added Net: Name=NetP1_5
+Added Pin To Net: NetName=NetP1_6 Pin=P1-6
+Added Pin To Net: NetName=NetP1_6 Pin=P2-6
+Added Pin To Net: NetName=NetP1_6 Pin=P3-6
+Added Net: Name=NetP1_6
+Added Pin To Net: NetName=NetP1_7 Pin=P1-7
+Added Pin To Net: NetName=NetP1_7 Pin=P2-7
+Added Pin To Net: NetName=NetP1_7 Pin=P3-7
+Added Net: Name=NetP1_7
+Added Pin To Net: NetName=NetP1_8 Pin=P1-8
+Added Pin To Net: NetName=NetP1_8 Pin=P2-8
+Added Pin To Net: NetName=NetP1_8 Pin=P3-8
+Added Net: Name=NetP1_8
+Added Class: Name=SHIELD1
+Added Room: Name=SHIELD1

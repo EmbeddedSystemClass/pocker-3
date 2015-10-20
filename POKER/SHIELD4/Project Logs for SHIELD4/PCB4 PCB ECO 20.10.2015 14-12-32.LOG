@@ -1,0 +1,114 @@
+Added Component: Designator=C1(C0805)
+Added Component: Designator=C2(C0805)
+Added Component: Designator=C3(C0805)
+Added Component: Designator=C4(C0805)
+Added Component: Designator=C5(C0805)
+Added Component: Designator=C6(C0805)
+Added Component: Designator=C7(C0805)
+Added Component: Designator=C8(C0805)
+Added Component: Designator=C9(C0805)
+Added Component: Designator=P1(HDR1X9)
+Added Component: Designator=P2(HDR1X9)
+Added Component: Designator=P3(HDR1X9)
+Added Component: Designator=P4(HDR1X9)
+Added Component: Designator=P5(HDR1X9)
+Added Component: Designator=P6(HDR1X16)
+Added Component: Designator=R1(6-0805_N)
+Added Component: Designator=R2(6-0805_N)
+Added Component: Designator=R3(6-0805_N)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=3.3V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=MISO Pin=C2-2
+Added Pin To Net: NetName=MOSI Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=SCK Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=3.3V Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=3.3V Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=3.3V Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=3.3V Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=3.3V Pin=C9-2
+Added Pin To Net: NetName=3.3V Pin=P1-1
+Added Pin To Net: NetName=RST1 Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=MISO Pin=P1-5
+Added Pin To Net: NetName=MOSI Pin=P1-6
+Added Pin To Net: NetName=GND Pin=P1-7
+Added Pin To Net: NetName=SCK Pin=P1-8
+Added Pin To Net: NetName=SS1 Pin=P1-9
+Added Pin To Net: NetName=3.3V Pin=P2-1
+Added Pin To Net: NetName=RST2 Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=GND Pin=P2-4
+Added Pin To Net: NetName=MISO Pin=P2-5
+Added Pin To Net: NetName=MOSI Pin=P2-6
+Added Pin To Net: NetName=GND Pin=P2-7
+Added Pin To Net: NetName=SCK Pin=P2-8
+Added Pin To Net: NetName=SS2 Pin=P2-9
+Added Pin To Net: NetName=3.3V Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=GND Pin=P3-4
+Added Pin To Net: NetName=MISO Pin=P3-5
+Added Pin To Net: NetName=MOSI Pin=P3-6
+Added Pin To Net: NetName=GND Pin=P3-7
+Added Pin To Net: NetName=SCK Pin=P3-8
+Added Pin To Net: NetName=3.3V Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P4-3
+Added Pin To Net: NetName=GND Pin=P4-4
+Added Pin To Net: NetName=MISO Pin=P4-5
+Added Pin To Net: NetName=MOSI Pin=P4-6
+Added Pin To Net: NetName=GND Pin=P4-7
+Added Pin To Net: NetName=SCK Pin=P4-8
+Added Pin To Net: NetName=3.3V Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P5-3
+Added Pin To Net: NetName=GND Pin=P5-4
+Added Pin To Net: NetName=MISO Pin=P5-5
+Added Pin To Net: NetName=MOSI Pin=P5-6
+Added Pin To Net: NetName=GND Pin=P5-7
+Added Pin To Net: NetName=SCK Pin=P5-8
+Added Pin To Net: NetName=3.3V Pin=P6-1
+Added Pin To Net: NetName=RST1 Pin=P6-2
+Added Pin To Net: NetName=GND Pin=P6-3
+Added Pin To Net: NetName=SS1 Pin=P6-7
+Added Pin To Net: NetName=RST2 Pin=P6-8
+Added Pin To Net: NetName=SS2 Pin=P6-9
+Added Pin To Net: NetName=RST2 Pin=P6-10
+Added Pin To Net: NetName=MISO Pin=R1-1
+Added Pin To Net: NetName=MOSI Pin=R2-1
+Added Pin To Net: NetName=SCK Pin=R3-1
+Added Pin To Net: NetName=NetP6_4 Pin=P6-4
+Added Pin To Net: NetName=NetP6_4 Pin=R1-2
+Added Net: Name=NetP6_4
+Added Pin To Net: NetName=NetP6_5 Pin=P6-5
+Added Pin To Net: NetName=NetP6_5 Pin=R2-2
+Added Net: Name=NetP6_5
+Added Pin To Net: NetName=NetP6_6 Pin=P6-6
+Added Pin To Net: NetName=NetP6_6 Pin=R3-2
+Added Net: Name=NetP6_6
+Added Pin To Net: NetName=RST3 Pin=P3-2
+Added Pin To Net: NetName=RST3 Pin=P6-12
+Added Net: Name=RST3
+Added Pin To Net: NetName=RST4 Pin=P4-2
+Added Pin To Net: NetName=RST4 Pin=P6-14
+Added Net: Name=RST4
+Added Pin To Net: NetName=RST5 Pin=P5-2
+Added Pin To Net: NetName=RST5 Pin=P6-16
+Added Net: Name=RST5
+Added Pin To Net: NetName=SS3 Pin=P3-9
+Added Pin To Net: NetName=SS3 Pin=P6-11
+Added Net: Name=SS3
+Added Pin To Net: NetName=SS4 Pin=P4-9
+Added Pin To Net: NetName=SS4 Pin=P6-13
+Added Net: Name=SS4
+Added Pin To Net: NetName=SS5 Pin=P5-9
+Added Pin To Net: NetName=SS5 Pin=P6-15
+Added Net: Name=SS5
+Added Class: Name=SHIELD4
+Added Room: Name=SHIELD4
