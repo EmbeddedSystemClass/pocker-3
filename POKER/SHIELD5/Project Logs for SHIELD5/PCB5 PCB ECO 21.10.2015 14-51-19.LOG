@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=SS5 Pin=P1-12
+Removed Pin From Net: NetName=RST5 Pin=P1-13
+Removed Pin From Net: NetName=SS6 Pin=P1-14
+Removed Pin From Net: NetName=RST6 Pin=P1-15
+Added Pin To Net: NetName=SS6 Pin=P1-12
+Added Pin To Net: NetName=RST6 Pin=P1-13
+Added Pin To Net: NetName=SS5 Pin=P1-14
+Added Pin To Net: NetName=RST5 Pin=P1-15
+Added Room: Name=SHIELD5
